@@ -27,9 +27,6 @@ app {
 }
 
 .lobbyMain {
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .lobbyBackground {
